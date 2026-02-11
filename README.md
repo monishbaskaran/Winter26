@@ -8,7 +8,7 @@
 
 [link text](comp1238.md)
 
-
+## Winter 2026 Class Schedule
 - Monday 
     - 09:00 - COMP 1236 - [Fundamentals of Computer Logic](https://learn.georgebrown.ca/d2l/home/455928)
     - 11:00 - COMP 1151 - [IT Essentials](https://learn.georgebrown.ca/d2l/home/451461)
